@@ -1,0 +1,15 @@
+C:\Users\Admin\.mopa\bin\Debug\net6.0\.mopa.exe
+C:\Users\Admin\.mopa\bin\Debug\net6.0\.mopa.deps.json
+C:\Users\Admin\.mopa\bin\Debug\net6.0\.mopa.runtimeconfig.json
+C:\Users\Admin\.mopa\bin\Debug\net6.0\.mopa.dll
+C:\Users\Admin\.mopa\bin\Debug\net6.0\.mopa.pdb
+C:\Users\Admin\.mopa\obj\Debug\net6.0\.mopa.csproj.AssemblyReference.cache
+C:\Users\Admin\.mopa\obj\Debug\net6.0\.mopa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\.mopa\obj\Debug\net6.0\.mopa.AssemblyInfoInputs.cache
+C:\Users\Admin\.mopa\obj\Debug\net6.0\.mopa.AssemblyInfo.cs
+C:\Users\Admin\.mopa\obj\Debug\net6.0\.mopa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\.mopa\obj\Debug\net6.0\.mopa.dll
+C:\Users\Admin\.mopa\obj\Debug\net6.0\refint\.mopa.dll
+C:\Users\Admin\.mopa\obj\Debug\net6.0\.mopa.pdb
+C:\Users\Admin\.mopa\obj\Debug\net6.0\.mopa.genruntimeconfig.cache
+C:\Users\Admin\.mopa\obj\Debug\net6.0\ref\.mopa.dll
